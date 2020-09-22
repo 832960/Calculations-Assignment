@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f1bcc4b2-6018-406f-8762-70db9762dc33" name="Default Changelist" comment="" />
+    <list default="true" id="f1bcc4b2-6018-406f-8762-70db9762dc33" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Review-Assignment/Calculations.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Review-Assignment/Calculations.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Review-Assignment/test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Calculations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Calculations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +21,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1hYqIrCtzVfsuNarE6FULWnDVeB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,8 +33,16 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -63,6 +82,7 @@
       <updated>1600198296347</updated>
       <workItem from="1600198301066" duration="7451000" />
       <workItem from="1600370490161" duration="6732000" />
+      <workItem from="1600797177868" duration="5297000" />
     </task>
     <servers />
   </component>
@@ -70,68 +90,62 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="361" y="91" key="#Inspections" timestamp="1600802390942">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="361" y="91" key="#Inspections/-1862.33.1862.1048/0.0.1536.864@0.0.1536.864" timestamp="1600802390942" />
     <state width="450" height="466" key="DebuggerActiveHint" timestamp="1600204446218">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state width="450" height="466" key="DebuggerActiveHint/-1862.33.1862.1048/0.0.1536.864@0.0.1536.864" timestamp="1600204446218" />
-    <state width="1493" height="223" key="GridCell.Tab.0.bottom" timestamp="1600377228250">
+    <state width="1493" height="223" key="GridCell.Tab.0.bottom" timestamp="1600802481411">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="277" key="GridCell.Tab.0.bottom/-1862.33.1862.1048/0.0.1536.864@0.0.1536.864" timestamp="1600205756435" />
+    <state width="1493" height="223" key="GridCell.Tab.0.bottom/-1862.33.1862.1048/0.0.1536.864@0.0.1536.864" timestamp="1600802481411" />
     <state width="1493" height="223" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1600377228250" />
-    <state width="1493" height="223" key="GridCell.Tab.0.center" timestamp="1600377228250">
+    <state width="1493" height="223" key="GridCell.Tab.0.center" timestamp="1600802481411">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="277" key="GridCell.Tab.0.center/-1862.33.1862.1048/0.0.1536.864@0.0.1536.864" timestamp="1600205756435" />
+    <state width="1493" height="223" key="GridCell.Tab.0.center/-1862.33.1862.1048/0.0.1536.864@0.0.1536.864" timestamp="1600802481411" />
     <state width="1493" height="223" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1600377228250" />
-    <state width="1493" height="223" key="GridCell.Tab.0.left" timestamp="1600377228250">
+    <state width="1493" height="223" key="GridCell.Tab.0.left" timestamp="1600802481411">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="277" key="GridCell.Tab.0.left/-1862.33.1862.1048/0.0.1536.864@0.0.1536.864" timestamp="1600205756435" />
+    <state width="1493" height="223" key="GridCell.Tab.0.left/-1862.33.1862.1048/0.0.1536.864@0.0.1536.864" timestamp="1600802481411" />
     <state width="1493" height="223" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1600377228250" />
-    <state width="1493" height="223" key="GridCell.Tab.0.right" timestamp="1600377228250">
+    <state width="1493" height="223" key="GridCell.Tab.0.right" timestamp="1600802481411">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="277" key="GridCell.Tab.0.right/-1862.33.1862.1048/0.0.1536.864@0.0.1536.864" timestamp="1600205756435" />
+    <state width="1493" height="223" key="GridCell.Tab.0.right/-1862.33.1862.1048/0.0.1536.864@0.0.1536.864" timestamp="1600802481411" />
     <state width="1493" height="223" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1600377228250" />
-    <state width="1493" height="277" key="GridCell.Tab.1.bottom" timestamp="1600377228248">
+    <state width="1493" height="277" key="GridCell.Tab.1.bottom" timestamp="1600798180954">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="277" key="GridCell.Tab.1.bottom/-1862.33.1862.1048/0.0.1536.864@0.0.1536.864" timestamp="1600205756436" />
+    <state width="1493" height="277" key="GridCell.Tab.1.bottom/-1862.33.1862.1048/0.0.1536.864@0.0.1536.864" timestamp="1600798180954" />
     <state width="1493" height="277" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1600377228248" />
-    <state width="1493" height="277" key="GridCell.Tab.1.center" timestamp="1600377228248">
+    <state width="1493" height="277" key="GridCell.Tab.1.center" timestamp="1600798180953">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="277" key="GridCell.Tab.1.center/-1862.33.1862.1048/0.0.1536.864@0.0.1536.864" timestamp="1600205756436" />
+    <state width="1493" height="277" key="GridCell.Tab.1.center/-1862.33.1862.1048/0.0.1536.864@0.0.1536.864" timestamp="1600798180953" />
     <state width="1493" height="277" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1600377228248" />
-    <state width="1493" height="277" key="GridCell.Tab.1.left" timestamp="1600377228248">
+    <state width="1493" height="277" key="GridCell.Tab.1.left" timestamp="1600798180952">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="277" key="GridCell.Tab.1.left/-1862.33.1862.1048/0.0.1536.864@0.0.1536.864" timestamp="1600205756436" />
+    <state width="1493" height="277" key="GridCell.Tab.1.left/-1862.33.1862.1048/0.0.1536.864@0.0.1536.864" timestamp="1600798180952" />
     <state width="1493" height="277" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1600377228248" />
-    <state width="1493" height="277" key="GridCell.Tab.1.right" timestamp="1600377228248">
+    <state width="1493" height="277" key="GridCell.Tab.1.right" timestamp="1600798180953">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="277" key="GridCell.Tab.1.right/-1862.33.1862.1048/0.0.1536.864@0.0.1536.864" timestamp="1600205756436" />
+    <state width="1493" height="277" key="GridCell.Tab.1.right/-1862.33.1862.1048/0.0.1536.864@0.0.1536.864" timestamp="1600798180953" />
     <state width="1493" height="277" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1600377228248" />
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1600802492692">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2/-1862.33.1862.1048/0.0.1536.864@0.0.1536.864" timestamp="1600802492692" />
     <state x="431" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1600372082283">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="431" y="181" width="672" height="678" key="search.everywhere.popup/-1862.33.1862.1048/0.0.1536.864@0.0.1536.864" timestamp="1600202939748" />
     <state x="431" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1600372082283" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/Calculations.java</url>
-          <line>66</line>
-          <properties class="Calculations" method="solveQuadraticEquation">
-            <option name="EMULATED" value="true" />
-          </properties>
-          <option name="timeStamp" value="5" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
