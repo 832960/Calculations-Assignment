@@ -143,7 +143,7 @@ public class Calculations {
         System.out.println("X for linear is: " + solveLinearX("5x + 20 = 30"));
         System.out.println("X for quadratic is: " + solveQuadraticX("-7x^2 + 2x + 16 = 7"));
         System.out.println("The distance between the two points is: " + solvePythagoras("(1, 1) (6, 4)"));
-        System.out.println("The angle between the two points (from the lowest point) is: " + solveTrigonometry("(1, 1) (6, 4)"));
+        System.out.println("The angle between the two points (from the lowest point) is: " + solveTrigonometry("(1, 1) (6, 4)") + "°");
 
     }
 
